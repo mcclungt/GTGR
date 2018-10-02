@@ -26,6 +26,16 @@ nav {
   height: 2em;
 }
 
+h1 {
+  font-size: 5em;
+  font-weight: bolder;
+}
+
+h2{
+  font-size: 1.5em;
+  color: #B1F2E7;
+}
+
 .wrapper {
   background-color: #B1F2E7;
   float: right;
